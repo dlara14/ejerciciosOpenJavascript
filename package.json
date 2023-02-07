@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio de creacion de proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio",
+    "primer",
+    "proyecto"
+  ],
+  "author": "David Lara",
+  "license": "ISC"
+}
